@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/sarang-jadiye-43a604226/**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:<a href='https://github.com/sarang1-coder'>Github</a></h3>
 <p align="left">
 </p>
 
